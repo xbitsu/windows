@@ -1,3 +1,3 @@
 # Windows
 
-Releases [Windows](https://github.com/xbitsu/windows/releases).
+[Releases](https://github.com/xbitsu/windows/releases).
